@@ -1,5 +1,5 @@
 # KareKodOlusturucu
-Author: Ramazan OSMANOĞLU
+Author: Erdem Yakar
 
 ## THE MIT LICENSE
 Copyright (c) 2018 Kare Kod Olusturucu
